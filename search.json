@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Turkish University Admissions Analysis",
+    "section": "",
+    "text": "Ali Eren Doğramacı\nŞevval Nesibe Arslan\nBatuhan Aksel\nDoruk Şahinoğlu\n\n\n\n\nThis project presents an exploratory data analysis of Turkish university admissions between 2019 and 2024.\nThe study investigates:\n\nAdmission scores\nAdmission rankings\nUniversity types\nScore categories\nGender distributions\nPreference behaviors\nQuota utilization trends\n\nThe analysis was conducted using R and Quarto based on publicly available higher education admission data.\n\n\n\nKaggle Dataset: https://www.kaggle.com/datasets/ramazanizci/turkish-university-admissions"
+  },
+  {
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
+    "title": "Turkish University Admissions Analysis",
+    "section": "",
+    "text": "Ali Eren Doğramacı\nŞevval Nesibe Arslan\nBatuhan Aksel\nDoruk Şahinoğlu"
+  },
+  {
+    "objectID": "index.html#project-description",
+    "href": "index.html#project-description",
+    "title": "Turkish University Admissions Analysis",
+    "section": "",
+    "text": "This project presents an exploratory data analysis of Turkish university admissions between 2019 and 2024.\nThe study investigates:\n\nAdmission scores\nAdmission rankings\nUniversity types\nScore categories\nGender distributions\nPreference behaviors\nQuota utilization trends\n\nThe analysis was conducted using R and Quarto based on publicly available higher education admission data."
+  },
+  {
+    "objectID": "index.html#dataset-source",
+    "href": "index.html#dataset-source",
+    "title": "Turkish University Admissions Analysis",
+    "section": "",
+    "text": "Kaggle Dataset: https://www.kaggle.com/datasets/ramazanizci/turkish-university-admissions"
+  },
+  {
+    "objectID": "Data.html",
+    "href": "Data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Dataset Source\nThe dataset used in this project contains Turkish university admission statistics between 2019 and 2024.\nSource: https://www.kaggle.com/datasets/ramazanizci/turkish-university-admissions\n\n\nDataset Description\nThe dataset includes:\n\nAdmission scores\nAdmission rankings\nUniversity types\nScore types\nPreference statistics\nGender distributions\nQuota information\n\n\n\nData Preparation\nBefore analysis, the dataset was cleaned and prepared in R.\nThe following preprocessing steps were applied:\n\nMissing values were removed\nIrrelevant variables were excluded\nSummary statistics were generated\nData was grouped by year and category\nVariables were standardized where necessary\n\n\n\nFinal Dataset\nThe processed dataset is available below.\nDownload Final Dataset"
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "Admission scores improved after 2021.\nFoundation universities generally had higher scores.\nFemale participation increased over time.\nMost students were placed within their top 10 preferences.\nTYT programs became highly competitive after 2021."
+  },
+  {
+    "objectID": "analysis.html#national-mean-admission-score-trend",
+    "href": "analysis.html#national-mean-admission-score-trend",
+    "title": "Analysis",
+    "section": "National Mean Admission Score Trend",
+    "text": "National Mean Admission Score Trend\nThe national average admission score remained relatively stable after 2022."
+  },
+  {
+    "objectID": "analysis.html#national-mean-admission-rank-trend",
+    "href": "analysis.html#national-mean-admission-rank-trend",
+    "title": "Analysis",
+    "section": "National Mean Admission Rank Trend",
+    "text": "National Mean Admission Rank Trend\nAdmission rankings worsened after 2020 but slightly recovered in 2024."
+  },
+  {
+    "objectID": "analysis.html#admission-score-and-rank-by-university-type",
+    "href": "analysis.html#admission-score-and-rank-by-university-type",
+    "title": "Analysis",
+    "section": "Admission Score and Rank by University Type",
+    "text": "Admission Score and Rank by University Type\nFoundation universities generally achieved higher admission scores."
+  },
+  {
+    "objectID": "analysis.html#university-type-performance-summary",
+    "href": "analysis.html#university-type-performance-summary",
+    "title": "Analysis",
+    "section": "University Type Performance Summary",
+    "text": "University Type Performance Summary\nState universities maintained stable demand and quota performance."
+  },
+  {
+    "objectID": "analysis.html#mean-admission-score-by-score-type",
+    "href": "analysis.html#mean-admission-score-by-score-type",
+    "title": "Analysis",
+    "section": "Mean Admission Score by Score Type",
+    "text": "Mean Admission Score by Score Type\nDIL programs consistently showed the highest scores."
+  },
+  {
+    "objectID": "analysis.html#admission-score-heatmap",
+    "href": "analysis.html#admission-score-heatmap",
+    "title": "Analysis",
+    "section": "Admission Score Heatmap",
+    "text": "Admission Score Heatmap\nThe heatmap illustrates score variations across years and score categories."
+  },
+  {
+    "objectID": "analysis.html#mean-demand-per-quota-by-score-type",
+    "href": "analysis.html#mean-demand-per-quota-by-score-type",
+    "title": "Analysis",
+    "section": "Mean Demand per Quota by Score Type",
+    "text": "Mean Demand per Quota by Score Type\nDemand per quota peaked around 2022."
+  },
+  {
+    "objectID": "analysis.html#preference-demand-trends",
+    "href": "analysis.html#preference-demand-trends",
+    "title": "Analysis",
+    "section": "Preference Demand Trends",
+    "text": "Preference Demand Trends\nStudents generally listed programs within their top preferences."
+  },
+  {
+    "objectID": "analysis.html#preference-alignment-analysis",
+    "href": "analysis.html#preference-alignment-analysis",
+    "title": "Analysis",
+    "section": "Preference Alignment Analysis",
+    "text": "Preference Alignment Analysis\nOnly a limited share of students were placed into their first-choice program."
+  },
+  {
+    "objectID": "analysis.html#placed-preference-distribution",
+    "href": "analysis.html#placed-preference-distribution",
+    "title": "Analysis",
+    "section": "Placed Preference Distribution",
+    "text": "Placed Preference Distribution\nMost students were placed within their top 10 preferences."
+  },
+  {
+    "objectID": "analysis.html#gender-distribution-over-time",
+    "href": "analysis.html#gender-distribution-over-time",
+    "title": "Analysis",
+    "section": "Gender Distribution Over Time",
+    "text": "Gender Distribution Over Time\nFemale participation gradually increased over time."
+  },
+  {
+    "objectID": "analysis.html#gender-distribution-by-score-type",
+    "href": "analysis.html#gender-distribution-by-score-type",
+    "title": "Analysis",
+    "section": "Gender Distribution by Score Type",
+    "text": "Gender Distribution by Score Type\nDIL programs showed the highest female participation rates."
+  },
+  {
+    "objectID": "analysis.html#quota-fill-rate-by-university-type",
+    "href": "analysis.html#quota-fill-rate-by-university-type",
+    "title": "Analysis",
+    "section": "Quota Fill Rate by University Type",
+    "text": "Quota Fill Rate by University Type\nState universities maintained high quota fill rates."
+  },
+  {
+    "objectID": "analysis.html#top-20-score-change-outliers",
+    "href": "analysis.html#top-20-score-change-outliers",
+    "title": "Analysis",
+    "section": "Top 20 Score Change Outliers",
+    "text": "Top 20 Score Change Outliers\nSome programs experienced unusually large score changes across years."
+  },
+  {
+    "objectID": "docs/data.html",
+    "href": "docs/data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Dataset Source\nThe dataset used in this project contains Turkish university admission statistics between 2019 and 2024.\nSource: https://www.kaggle.com/datasets/ramazanizci/turkish-university-admissions\n\n\nDataset Description\nThe dataset includes:\n\nAdmission scores\nAdmission rankings\nUniversity types\nScore types\nPreference statistics\nGender distributions\nQuota information\n\n\n\nData Preparation\nBefore analysis, the dataset was cleaned and prepared in R.\nThe following preprocessing steps were applied:\n\nMissing values were removed\nIrrelevant variables were excluded\nSummary statistics were generated\nData was grouped by year and category\nVariables were standardized where necessary\n\n\n\nFinal Dataset\nThe processed dataset is available below.\nDownload Final Dataset"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Dataset Source\nThe dataset used in this project contains Turkish university admission statistics between 2019 and 2024.\nSource: https://www.kaggle.com/datasets/ramazanizci/turkish-university-admissions\n\n\nDataset Description\nThe dataset includes:\n\nAdmission scores\nAdmission rankings\nUniversity types\nScore types\nPreference statistics\nGender distributions\nQuota information\n\n\n\nData Preparation\nBefore analysis, the dataset was cleaned and prepared in R.\nThe following preprocessing steps were applied:\n\nMissing values were removed\nIrrelevant variables were excluded\nSummary statistics were generated\nData was grouped by year and category\nVariables were standardized where necessary\n\n\n\nFinal Dataset\nThe processed dataset is available below.\nDownload Final Dataset"
+  }
+]
